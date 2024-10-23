@@ -111,6 +111,7 @@ TIME_ZONE = 'UTC'
 USE_I18N = True
 
 USE_TZ = True
+APP_DIRS: True
 
 
 # Static files (CSS, JavaScript, Images)
